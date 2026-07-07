@@ -21,5 +21,5 @@ A Python-based smart security solution that detects intrusions using motion sens
 - Reporting
 - Python scripting
 
-##Output## 
+#Output
 ![Output](https://github.com/nithinmunirathnam/Intrusion_detection_system_capstone/blob/97974065d57fa32e4695708af0ecdfe17e64c6c3/output5.png)![](https://github.com/nithinmunirathnam/Intrusion_detection_system_capstone/blob/e50f39fc2dfbd366000ee862fc29097a59aaef09/output6.png)
